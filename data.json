@@ -1,0 +1,136 @@
+{ "cities": [
+	{
+
+		"name" : "motreal",
+		"locations" : [
+			{
+				"name" : "m1",
+				"coordinates" : "45.493866, -73.579246",
+				"sound" : "audio/STE-011.mp3",
+				"values" : "857.7262644, 44.88070381"
+			},
+			{
+				"name" : "m2",
+				"coordinates" : "45.494598, -73.576899",
+				"sound" : "audio/STE-012.mp3",
+				"values" : "925.7588785, 258.1902022"
+			},
+			{
+				"name" : "m3",
+				"coordinates" : "45.493914, -73.575220",
+				"sound" : "audio/STE-014.mp3",
+				"values" : "972.2558814, 728.3734143"
+			},
+			{
+				"name" : "m4",
+				"coordinates" : "45.493025, -73.575169",
+				"sound" : "audio/STE-015.mp3",
+				"values" : "941.8454839, 681.7638123"
+			},
+			{
+				"name" : "m5",
+				"coordinates" : "45.492233, -73.576454",
+				"sound" : "audio/STE-016.mp3",
+				"values" : "959.6465049, 507.8344654"
+			},
+			{
+				"name" : "m6",
+				"coordinates" : "45.490749, -73.577863",
+				"sound" : "audio/STE-017.mp3",
+				"values" : "934.222432, 772.9709562"
+			},
+			{
+				"name" : "m7",
+				"coordinates" : "45.491744, -73.578478",
+				"sound" : "audio/STE-018.mp3",
+				"values" : "947.6056418, 467.1489134"
+			},
+			{
+				"name" : "m8",
+				"coordinates" : "45.493277, -73.581221",
+				"sound" : "audio/STE-019.mp3",
+				"values" : "964.9527717, 716.0462932"
+			},
+			{
+				"name" : "m9",
+				"coordinates" : "45.495456, -73.578667",
+				"sound" : "audio/STE-020.mp3",
+				"values" : "966.0862903, 618.219552"
+			},
+			{
+				"name" : "m10",
+				"coordinates" : "45.495473, -73.578135",
+				"sound" : "audio/STE-021.mp3",
+				"values" : "894.156859, 986.7092813"
+			}
+			 
+		]
+	},
+	{
+		"name" : "toronto",
+		"locations" : [
+			{
+				"name" : "t1",
+				"coordinates" : "43.647974, -79.396297",
+				"sound" : "audio/STE-024.mp3",
+				"values" : "6.5, 8"
+			},
+			{
+				"name" : "t2",
+				"coordinates" : "43.651113, -79.397653",
+				"sound" : "audio/STE-025.mp3",
+				"values" : "5, 4"
+			},
+			{
+				"name" : "t3",
+				"coordinates" : "43.65396, -79.398764",
+				"sound" : "audio/STE-026.mp3",
+				"values" : "6.5, 6"
+			},
+			{
+				"name" : "t4",
+				"coordinates" : "43.657514, -79.400501",
+				"sound" : "audio/STE-027.mp3",
+				"values" : "8, 8"
+			},
+			{
+				"name" : "t5",
+				"coordinates" : "43.658733, -79.396112",
+				"sound" : "audio/STE-028.mp3",
+				"values" : "4, 7"
+			},
+			{
+				"name" : "t6",
+				"coordinates" : "43.661602, -79.397761",
+				"sound" : "audio/STE-029.mp3",
+				"values" : "5, 6"
+			},
+			{
+				"name" : "t7",
+				"coordinates" : "43.661309, -79.39613",
+				"sound" : "audio/STE-030.mp3",
+				"values" : "4, 6"
+			},
+			{
+				"name" : "t8",
+				"coordinates" : "43.658062, -79.395541",
+				"sound" : "audio/STE-031.mp3",
+				"values" : "3, 4"
+			},
+			{
+				"name" : "t9",
+				"coordinates" : "43.655883, -79.394074",
+				"sound" : "audio/STE-032.mp3",
+				"values" : "7, 7"
+			},
+			{
+				"name" : "t10",
+				"coordinates" : "43.654211, -79.391397",
+				"sound" : "audio/STE-033.mp3",
+				"values" : "1, 5"
+			}
+			 
+		]
+	}
+
+]}
